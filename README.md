@@ -1,2 +1,2 @@
 # HoloChanTwin
-A digital twin simulation software for holographic surface channels
+A Digital Twin Simulation Software for Holographic Surface Channels
